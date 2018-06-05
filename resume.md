@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About me
 css: "/css/resume.css"
 ---
 
